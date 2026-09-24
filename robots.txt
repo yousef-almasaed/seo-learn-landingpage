@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yousef-almasaed.github.io/seo-learn-landingpage/sitemap.xml
